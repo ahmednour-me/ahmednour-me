@@ -1,30 +1,339 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--              AHMED NOUR — ULTRA FUTURISTIC README v3.0              -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            ⚡  AHMED NOUR — WORLD-CLASS README  ⚡  2026 EDITION       -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:03001C,50:070F2B,75:030637,100:000000&height=300&section=header&text=AHMED%20NOUR&fontSize=90&fontColor=00ffff&fontAlignY=42&desc=〈%20FULL%20STACK%20DEVELOPER%20·%20CYBERSECURITY%20·%20AI%20ARCHITECT%20〉&descSize=15&descAlignY=65&descColor=3ABEF9&animation=twinkling&stroke=00ffff&strokeWidth=3&reversal=true" />
+</div>
 
-<!-- ══ ANIMATED CYBER HEADER ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=250&section=header&text=AHMED%20NOUR&fontSize=75&fontColor=00ffff&fontAlignY=45&desc=◈%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20AI%20Builder%20◈&descSize=16&descAlignY=68&descColor=7b2fff&animation=twinkling&stroke=00ffff&strokeWidth=2" />
+<!-- ══════════ NEURAL TYPING TERMINAL ══════════ -->
+<div align="center"><br/>
+
+[![](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=22&duration=2000&pause=600&color=00FFFF&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=◣+SYSTEM+BOOT...+KERNEL+LOADED+◢;◣+Initializing+Full+Stack+Engine...+◢;◣+Activating+Cybersecurity+Protocols...+◢;◣+Neural+AI+Networks+Connected...+◢;◣+OPERATOR+%5B+AHMED+NOUR+%5D+ONLINE+◢;◣+Building+the+Future%2C+One+Commit+at+a+Time+◢)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ══ GLITCH TYPING EFFECT ══ -->
-<div align="center">
+<!-- ══════════ HOLOGRAPHIC BADGES ══════════ -->
+<div align="center"><br/>
+
+![](https://img.shields.io/badge/⬡-STATUS%3A%20ONLINE-00ff9f?style=for-the-badge&labelColor=03001C&color=00ff9f)
+![](https://img.shields.io/badge/⬡-FULL%20STACK%20%2B%20AI%20%2B%20SECURITY-00ffff?style=for-the-badge&labelColor=03001C&color=00ffff)
+![](https://img.shields.io/badge/⬡-OPEN%20TO%20COLLABORATE-3ABEF9?style=for-the-badge&labelColor=03001C&color=3ABEF9)
+[![](https://komarev.com/ghpvc/?username=ahmednour-me&label=⬡%20SIGNAL%20COUNT&color=7b2fff&style=for-the-badge&labelColor=03001C)](https://github.com/ahmednour-me)
+
+</div><br/>
+
+---
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=⚡+INITIALIZING+SYSTEM...;▸+Loading+Full+Stack+Protocols...;▸+Activating+Security+Modules...;▸+Connecting+AI+Neural+Networks...;▸+SYSTEM+READY+—+Ahmed+Nour+Online.)](https://git.io/typing-svg)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--              ① PARTICLE NAME BANNER — "AHMED NOUR" IN DOTS            -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="98%">
+<defs>
+  <filter id="neon"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glow2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="softglow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" style="stop-color:#070F2B"/>
+    <stop offset="100%" style="stop-color:#000000"/>
+  </radialGradient>
+  <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#00ffff"><animate attributeName="stop-color" values="#00ffff;#3ABEF9;#7b2fff;#00ffff" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" style="stop-color:#3ABEF9"><animate attributeName="stop-color" values="#3ABEF9;#7b2fff;#00ffff;#3ABEF9" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" style="stop-color:#7b2fff"><animate attributeName="stop-color" values="#7b2fff;#00ffff;#3ABEF9;#7b2fff" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="960" height="200" fill="url(#bgGrad)" rx="16"/>
+
+<!-- Grid lines subtle -->
+<line x1="0" y1="50" x2="960" y2="50" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+<line x1="0" y1="100" x2="960" y2="100" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+<line x1="0" y1="150" x2="960" y2="150" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+<line x1="240" y1="0" x2="240" y2="200" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+<line x1="480" y1="0" x2="480" y2="200" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+<line x1="720" y1="0" x2="720" y2="200" stroke="#00ffff" stroke-width="0.3" opacity="0.08"/>
+
+<!-- ═══ PARTICLE DOTS FORMING "AHMED" ═══ -->
+<!-- A -->
+<circle cx="62" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0s" repeatCount="indefinite"/><animate attributeName="r" values="1;4.5;4.5;1" dur="4s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="62" cy="120" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="62" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="62" cy="80" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="84" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="96" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.55s" repeatCount="indefinite"/></circle>
+<circle cx="108" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="118" cy="80" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="118" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="118" cy="120" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="118" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="105" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="84" cy="105" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="96" cy="105" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="108" cy="105" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.25s" repeatCount="indefinite"/></circle>
+
+<!-- H -->
+<circle cx="142" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="142" cy="80" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="142" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="142" cy="120" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="142" cy="140" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="154" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.65s" repeatCount="indefinite"/></circle>
+<circle cx="166" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="178" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="178" cy="80" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="178" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="178" cy="120" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="178" cy="140" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+
+<!-- M -->
+<circle cx="202" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="202" cy="80" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="202" cy="100" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="202" cy="120" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="202" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="214" cy="75" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="226" cy="90" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="238" cy="75" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="80" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="100" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="120" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+
+<!-- E -->
+<circle cx="274" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="286" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.45s" repeatCount="indefinite"/></circle>
+<circle cx="298" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="274" cy="80" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.55s" repeatCount="indefinite"/></circle>
+<circle cx="274" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="286" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.65s" repeatCount="indefinite"/></circle>
+<circle cx="298" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="274" cy="120" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="274" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="286" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="298" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+
+<!-- D -->
+<circle cx="322" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="334" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.55s" repeatCount="indefinite"/></circle>
+<circle cx="346" cy="70" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="354" cy="85" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.65s" repeatCount="indefinite"/></circle>
+<circle cx="354" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="354" cy="115" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="346" cy="130" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="334" cy="140" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="322" cy="140" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="322" cy="120" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="322" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="322" cy="80" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+
+<!-- SEPARATOR DOTS -->
+<circle cx="395" cy="100" r="5" fill="#00ff9f" filter="url(#glow2)"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/><animate attributeName="fill" values="#00ff9f;#00ffff;#7b2fff;#00ff9f" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="415" cy="90" r="3" fill="#00ff9f" filter="url(#neon)" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="415" cy="110" r="3" fill="#00ff9f" filter="url(#neon)" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="1.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="435" cy="85" r="2.5" fill="#00ffff" filter="url(#neon)" opacity="0.4"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="435" cy="115" r="2.5" fill="#00ffff" filter="url(#neon)" opacity="0.4"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="1.8s" begin="0.5s" repeatCount="indefinite"/></circle>
+
+<!-- N -->
+<circle cx="462" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="462" cy="80" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.65s" repeatCount="indefinite"/></circle>
+<circle cx="462" cy="100" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="462" cy="120" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="462" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="474" cy="78" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="486" cy="96" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="498" cy="114" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="80" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="100" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="120" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+
+<!-- O -->
+<circle cx="550" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="562" cy="60" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="574" cy="70" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="582" cy="85" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="582" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="582" cy="115" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="574" cy="130" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="562" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="550" cy="140" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="542" cy="130" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="538" cy="115" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="538" cy="100" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.25s" repeatCount="indefinite"/></circle>
+<circle cx="538" cy="85" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="542" cy="70" r="4" fill="#00ffff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.35s" repeatCount="indefinite"/></circle>
+
+<!-- U -->
+<circle cx="610" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="80" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="120" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="618" cy="135" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="630" cy="143" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="642" cy="135" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="650" cy="120" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="650" cy="100" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="650" cy="80" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.25s" repeatCount="indefinite"/></circle>
+<circle cx="650" cy="60" r="4" fill="#3ABEF9" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.3s" repeatCount="indefinite"/></circle>
+
+<!-- R -->
+<circle cx="674" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="686" cy="60" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.95s" repeatCount="indefinite"/></circle>
+<circle cx="698" cy="65" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="706" cy="78" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="698" cy="90" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="686" cy="95" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="95" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="80" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.25s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="100" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="120" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.35s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="690" cy="115" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.45s" repeatCount="indefinite"/></circle>
+<circle cx="704" cy="130" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="714" cy="140" r="4" fill="#7b2fff" filter="url(#neon)"><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.55s" repeatCount="indefinite"/></circle>
+
+<!-- Floating orbital particles decoration -->
+<circle cx="820" cy="100" r="35" fill="none" stroke="#00ffff" stroke-width="0.8" stroke-dasharray="3,6" opacity="0.3">
+  <animateTransform attributeName="transform" type="rotate" from="0 820 100" to="360 820 100" dur="12s" repeatCount="indefinite"/>
+</circle>
+<circle cx="820" cy="100" r="22" fill="none" stroke="#7b2fff" stroke-width="0.8" stroke-dasharray="2,5" opacity="0.4">
+  <animateTransform attributeName="transform" type="rotate" from="360 820 100" to="0 820 100" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="820" cy="65" r="5" fill="#00ffff" filter="url(#neon)">
+  <animateTransform attributeName="transform" type="rotate" from="0 820 100" to="360 820 100" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="820" cy="78" r="3" fill="#7b2fff" filter="url(#neon)">
+  <animateTransform attributeName="transform" type="rotate" from="180 820 100" to="540 820 100" dur="6s" repeatCount="indefinite"/>
+</circle>
+<!-- Center of orbital -->
+<circle cx="820" cy="100" r="8" fill="#00ffff" opacity="0.15" filter="url(#glow2)">
+  <animate attributeName="r" values="5;12;5" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="820" y="105" fill="#00ffff" font-family="monospace" font-size="9" text-anchor="middle" filter="url(#neon)" opacity="0.8">DEV</text>
+
+<!-- Bottom scan line -->
+<rect x="0" y="170" width="960" height="1.5" fill="#00ffff" opacity="0">
+  <animate attributeName="y" values="30;190;30" dur="6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.4;0" dur="6s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Bottom subtitle -->
+<text x="480" y="182" fill="#3ABEF9" font-family="monospace" font-size="11" text-anchor="middle" opacity="0.7">◈  FULL STACK DEVELOPER  ·  CYBERSECURITY RESEARCHER  ·  AI ARCHITECT  ◈</text>
+
+</svg>
 
 </div>
 
-<!-- ══ HOLOGRAPHIC STATUS BADGES ══ -->
-<div align="center">
 <br/>
 
-[![](https://img.shields.io/badge/◈%20STATUS-ONLINE%20%26%20BUILDING-00ff9f?style=for-the-badge&labelColor=0d0221&color=00ff9f&logo=statuspage&logoColor=00ff9f)](https://ahmednour.vercel.app)
-[![](https://img.shields.io/badge/◈%20SPECIALITY-FULL%20STACK%20%2B%20SECURITY-7b2fff?style=for-the-badge&labelColor=0d0221&color=7b2fff)](https://ahmednour.vercel.app)
-[![](https://img.shields.io/badge/◈%20MODE-OPEN%20TO%20COLLABORATE-ff6ec7?style=for-the-badge&labelColor=0d0221&color=ff6ec7)](https://ahmednour.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmednour-me&label=◈%20VISITORS&color=00ffff&style=for-the-badge&labelColor=0d0221)](https://github.com/ahmednour-me)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--              ② ANIMATED GEOMETRIC SHAPES PANEL                       -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 110" width="98%">
+<defs>
+  <filter id="g1"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="960" height="110" fill="#03001C" rx="0"/>
+
+<!-- Shape 1: Triangle emerging from left -->
+<polygon points="60,90 100,20 140,90" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,300;300,0;300,0;0,300" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#00ffff;#3ABEF9;#00ffff" dur="5s" repeatCount="indefinite"/>
+</polygon>
+<circle cx="100" cy="20" r="3" fill="#00ffff" filter="url(#g1)"><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/></circle>
+
+<!-- Shape 2: Diamond -->
+<polygon points="220,15 265,55 220,95 175,55" fill="none" stroke="#7b2fff" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,300;300,0;300,0;0,300" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="rotate" from="0 220 55" to="360 220 55" dur="20s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Shape 3: Hexagon spinning -->
+<polygon points="360,15 395,32 395,68 360,85 325,68 325,32" fill="none" stroke="#3ABEF9" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,250;250,0;250,0;0,250" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="rotate" from="0 360 50" to="360 360 50" dur="15s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="360,25 387,39 387,61 360,75 333,61 333,39" fill="none" stroke="#3ABEF9" stroke-width="0.8" opacity="0.4">
+  <animateTransform attributeName="transform" type="rotate" from="360 360 50" to="0 360 50" dur="8s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Shape 4: Cross/Star -->
+<g transform="translate(480,55)" filter="url(#g1)">
+  <line x1="0" y1="-38" x2="0" y2="38" stroke="#00ff9f" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0,80;80,0;80,0;0,80" dur="4s" begin="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="-38" y1="0" x2="38" y2="0" stroke="#00ff9f" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0,80;80,0;80,0;0,80" dur="4s" begin="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="-27" y1="-27" x2="27" y2="27" stroke="#00ff9f" stroke-width="1" opacity="0.6">
+    <animate attributeName="stroke-dasharray" values="0,80;80,0;80,0;0,80" dur="4s" begin="2.3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="27" y1="-27" x2="-27" y2="27" stroke="#00ff9f" stroke-width="1" opacity="0.6">
+    <animate attributeName="stroke-dasharray" values="0,80;80,0;80,0;0,80" dur="4s" begin="2.3s" repeatCount="indefinite"/>
+  </line>
+  <circle r="7" fill="#00ff9f">
+    <animate attributeName="r" values="3;9;3" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Orbiting dot -->
+  <circle cx="0" cy="-40" r="3" fill="#00ffff" filter="url(#g1)">
+    <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Shape 5: Hexagon spinning reverse -->
+<polygon points="600,15 635,32 635,68 600,85 565,68 565,32" fill="none" stroke="#7b2fff" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,250;250,0;250,0;0,250" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="rotate" from="360 600 50" to="0 600 50" dur="15s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Shape 6: Diamond -->
+<polygon points="740,15 785,55 740,95 695,55" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,300;300,0;300,0;0,300" dur="6s" begin="3s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="rotate" from="360 740 55" to="0 740 55" dur="20s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Shape 7: Triangle end -->
+<polygon points="900,90 860,20 820,90" fill="none" stroke="#3ABEF9" stroke-width="2" filter="url(#g1)">
+  <animate attributeName="stroke-dasharray" values="0,300;300,0;300,0;0,300" dur="5s" begin="3.5s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Connecting dashed line -->
+<line x1="140" y1="55" x2="175" y2="55" stroke="#00ffff" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+<line x1="265" y1="55" x2="325" y2="55" stroke="#7b2fff" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+<line x1="395" y1="55" x2="442" y2="55" stroke="#3ABEF9" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+<line x1="518" y1="55" x2="565" y2="55" stroke="#00ff9f" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+<line x1="635" y1="55" x2="695" y2="55" stroke="#7b2fff" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+<line x1="785" y1="55" x2="820" y2="55" stroke="#00ffff" stroke-width="1" stroke-dasharray="3,4" opacity="0.5">
+  <animate attributeName="stroke-dashoffset" from="0" to="14" dur="0.8s" repeatCount="indefinite"/>
+</line>
+
+</svg>
 
 </div>
 
@@ -35,192 +344,57 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED GEOMETRIC SVG BANNER                     -->
+<!--              ③ SYSTEM PROFILE + GITHUB STATS                         -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="center"><h2>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="95%">
-  <defs>
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#000000"/>
-      <stop offset="20%" style="stop-color:#0d0221"/>
-      <stop offset="50%" style="stop-color:#0a0a2e"/>
-      <stop offset="80%" style="stop-color:#0d0221"/>
-      <stop offset="100%" style="stop-color:#000000"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+```
+╔═══════════════════════════════════╗
+║   ⬡  SYSTEM  PROFILE  ⬡         ║
+╚═══════════════════════════════════╝
+```
 
-  <rect width="900" height="120" fill="url(#neonGrad)" rx="12"/>
-
-  <!-- Animated scanning line -->
-  <rect width="900" height="1" y="0" fill="#00ffff" opacity="0.3">
-    <animate attributeName="y" from="0" to="120" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Left circuit lines -->
-  <line x1="30" y1="20" x2="200" y2="20" stroke="#00ffff" stroke-width="1" opacity="0.4">
-    <animate attributeName="x2" values="30;200;30" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.6;0" dur="4s" repeatCount="indefinite"/>
-  </line>
-  <line x1="30" y1="20" x2="30" y2="100" stroke="#00ffff" stroke-width="1" opacity="0.4"/>
-  <line x1="30" y1="100" x2="130" y2="100" stroke="#00ffff" stroke-width="1" opacity="0.4">
-    <animate attributeName="x2" values="30;130;30" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.5;0" dur="5s" repeatCount="indefinite"/>
-  </line>
-  <circle cx="30" cy="20" r="4" fill="#00ffff" filter="url(#glow)">
-    <animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="20" r="3" fill="#7b2fff" filter="url(#glow)">
-    <animate attributeName="r" values="1;4;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="30" cy="100" r="3" fill="#ff6ec7" filter="url(#glow)">
-    <animate attributeName="r" values="1;4;1" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Right circuit lines -->
-  <line x1="870" y1="20" x2="700" y2="20" stroke="#7b2fff" stroke-width="1" opacity="0.4">
-    <animate attributeName="x2" values="870;700;870" dur="4.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.6;0" dur="4.5s" repeatCount="indefinite"/>
-  </line>
-  <line x1="870" y1="20" x2="870" y2="100" stroke="#7b2fff" stroke-width="1" opacity="0.4"/>
-  <line x1="870" y1="100" x2="770" y2="100" stroke="#7b2fff" stroke-width="1" opacity="0.4">
-    <animate attributeName="x2" values="870;770;870" dur="5.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.5;0" dur="5.5s" repeatCount="indefinite"/>
-  </line>
-  <circle cx="870" cy="20" r="4" fill="#7b2fff" filter="url(#glow)">
-    <animate attributeName="r" values="2;5;2" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="20" r="3" fill="#00ffff" filter="url(#glow)">
-    <animate attributeName="r" values="1;4;1" dur="3.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="870" cy="100" r="3" fill="#00ff9f" filter="url(#glow)">
-    <animate attributeName="r" values="1;4;1" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Center hexagon (forming animation) -->
-  <polygon points="450,15 475,30 475,58 450,73 425,58 425,30"
-    fill="none" stroke="#00ffff" stroke-width="1.5" filter="url(#glow2)">
-    <animate attributeName="stroke-dasharray" values="0,200;200,0" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="stroke" values="#00ffff;#7b2fff;#ff6ec7;#00ffff" dur="6s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="0 450 44" to="360 450 44" dur="12s" repeatCount="indefinite"/>
-  </polygon>
-
-  <!-- Inner hexagon -->
-  <polygon points="450,25 465,33 465,55 450,63 435,55 435,33"
-    fill="none" stroke="#7b2fff" stroke-width="1" opacity="0.7">
-    <animate attributeName="stroke-dasharray" values="0,150;150,0" dur="2.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="360 450 44" to="0 450 44" dur="8s" repeatCount="indefinite"/>
-  </polygon>
-
-  <!-- Central dot -->
-  <circle cx="450" cy="44" r="5" fill="#00ffff" filter="url(#glow2)">
-    <animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#00ffff;#7b2fff;#ff6ec7;#00ffff" dur="6s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Orbiting particles -->
-  <circle cx="450" cy="14" r="2" fill="#00ffff" filter="url(#glow)">
-    <animateTransform attributeName="transform" type="rotate" from="0 450 44" to="360 450 44" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="450" cy="74" r="2" fill="#ff6ec7" filter="url(#glow)">
-    <animateTransform attributeName="transform" type="rotate" from="180 450 44" to="540 450 44" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Horizontal data lines -->
-  <line x1="250" y1="44" x2="415" y2="44" stroke="#00ffff" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.5">
-    <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="485" y1="44" x2="650" y2="44" stroke="#7b2fff" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.5">
-    <animate attributeName="stroke-dashoffset" from="0" to="16" dur="1s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Corner decorations forming -->
-  <rect x="60" y="35" width="20" height="20" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.6" rx="2">
-    <animate attributeName="stroke-dasharray" values="0,80;80,0" dur="4s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="0 70 45" to="360 70 45" dur="10s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="820" y="35" width="20" height="20" fill="none" stroke="#7b2fff" stroke-width="1" opacity="0.6" rx="2">
-    <animate attributeName="stroke-dasharray" values="0,80;80,0" dur="4.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="360 830 45" to="0 830 45" dur="10s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Floating binary text -->
-  <text x="100" y="70" fill="#00ffff" opacity="0.15" font-size="10" font-family="monospace">01001000</text>
-  <text x="680" y="70" fill="#7b2fff" opacity="0.15" font-size="10" font-family="monospace">10110101</text>
-  <text x="150" y="50" fill="#ff6ec7" opacity="0.1" font-size="8" font-family="monospace">0xDEAD</text>
-  <text x="710" y="50" fill="#00ff9f" opacity="0.1" font-size="8" font-family="monospace">0xBEEF</text>
-</svg>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME — CYBER STYLE                      -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `⟨ SYSTEM PROFILE ⟩`
-
-</div>
-
-<br/>
+</h2></div>
 
 <table align="center" width="96%">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
+```yaml
+┌─────────────────────────────────────────┐
+│         OPERATOR  PROFILE  v2026        │
+├─────────────────────────────────────────┤
+│                                         │
+│  HANDLE   ➤  Ahmed Nour                 │
+│  ROLE     ➤  Full Stack Developer       │
+│  FIELD    ➤  Cybersecurity Research     │
+│  DOMAIN   ➤  AI Systems Integration     │
+│  STATUS   ➤  ██████████  ACTIVE 100%   │
+│  NET      ➤  Remote-First / Worldwide   │
+│  BUILD    ➤  AI-Powered Web Interfaces  │
+│  STUDY    ➤  Advanced Pen-Testing       │
+│  UPTIME   ➤  99.9% Commitment Level     │
+│                                         │
+├─────────────────────────────────────────┤
+│  ⚡ "Secure code is quality code"        │
+└─────────────────────────────────────────┘
 ```
-╔══════════════════════════════════════════╗
-║         OPERATOR IDENTIFICATION          ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  NAME       ▸  Ahmed Nour                ║
-║  CLASS      ▸  Full Stack Developer      ║
-║  BRANCH     ▸  Cybersecurity Research    ║
-║  CLEARANCE  ▸  AI Systems Integration    ║
-║  STATUS     ▸  ██████████  ACTIVE        ║
-║  MODE       ▸  Open to Collaboration     ║
-║  LOCATION   ▸  Remote-First              ║
-║  UPTIME     ▸  99.9% Commitment          ║
-║                                          ║
-╠══════════════════════════════════════════╣
-║  PHILOSOPHY: "Secure code = Quality code"║
-╚══════════════════════════════════════════╝
-```
-
-<br/>
 
 ```diff
-+ Currently Building:  AI-powered web interfaces
-+ Currently Learning:  Advanced Penetration Testing
-+ Currently Exploring: LLM architectures & agents
-! Fun Fact: I see security vulnerabilities in UI/UX
-# Philosophy: Every line of code is a responsibility
++ NOW BUILDING  → AI-Powered Web Tools
++ NOW LEARNING  → Advanced Pen-Testing
++ NOW EXPLORING → LLM Agents & RAG Systems
+! SUPERPOWER    → I spot security bugs in UX
+# MISSION       → Every commit = responsibility
 ```
 
 </td>
-<td width="48%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmednour-me&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&icon_color=7b2fff&text_color=a8b2d8&bg_color=0d0221&include_all_commits=true&count_private=true&rank_icon=percentile&ring_color=7b2fff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmednour-me&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&icon_color=7b2fff&text_color=3ABEF9&bg_color=03001C&include_all_commits=true&count_private=true&rank_icon=percentile&ring_color=00ffff&border_color=00ffff" width="100%"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednour-me&theme=transparent&hide_border=true&ring=00ffff&fire=ff6ec7&currStreakLabel=00ffff&sideLabels=7b2fff&dates=8892b0&background=0d0221&currStreakNum=00ffff&sideNums=a8b2d8" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednour-me&theme=transparent&hide_border=true&ring=00ffff&fire=3ABEF9&currStreakLabel=00ffff&sideLabels=7b2fff&dates=3ABEF9&background=03001C&currStreakNum=00ffff&sideNums=3ABEF9&border=00ffff" width="100%"/>
 
 </td>
 </tr>
@@ -228,9 +402,9 @@
 
 <br/>
 
-<!-- ══ TROPHIES ══ -->
+<!-- TROPHIES -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmednour-me&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmednour-me&theme=matrix&no-frame=false&no-bg=true&column=7&margin-w=6&title_color=00ffff&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="96%" />
 </div>
 
 <br/>
@@ -240,316 +414,267 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED SHAPES DIVIDER                          -->
+<!--                ④ NEURAL NETWORK TECH ARSENAL                         -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
+<div align="center"><h2>
+
+```
+╔═══════════════════════════════════╗
+║   ⬡  TECHNOLOGY  ARSENAL  ⬡     ║
+╚═══════════════════════════════════╝
+```
+
+</h2></div>
+
+<!-- NEURAL NETWORK SVG showing tech connections -->
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="95%">
-  <defs>
-    <filter id="neonBlur">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="900" height="80" fill="#050510" rx="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="98%">
+<defs>
+  <filter id="nn"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="nn2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="rbg" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" style="stop-color:#070F2B"/>
+    <stop offset="100%" style="stop-color:#000000"/>
+  </radialGradient>
+</defs>
+<rect width="960" height="260" fill="url(#rbg)" rx="14"/>
 
-  <!-- Triangle 1 forming -->
-  <polygon points="80,60 110,15 140,60" fill="none" stroke="#00ffff" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,200;200,0;200,0;0,200" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
-  </polygon>
+<!-- Grid -->
+<line x1="0" y1="65" x2="960" y2="65" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="0" y1="130" x2="960" y2="130" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="0" y1="195" x2="960" y2="195" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="192" y1="0" x2="192" y2="260" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="384" y1="0" x2="384" y2="260" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="576" y1="0" x2="576" y2="260" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
+<line x1="768" y1="0" x2="768" y2="260" stroke="#00ffff" stroke-width="0.2" opacity="0.06"/>
 
-  <!-- Diamond forming -->
-  <polygon points="220,10 250,40 220,70 190,40" fill="none" stroke="#7b2fff" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,200;200,0;200,0;0,200" dur="6s" begin="0.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="0.5s" repeatCount="indefinite"/>
-  </polygon>
+<!-- ═ INPUT LAYER LABEL ═ -->
+<text x="96" y="22" fill="#00ffff" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.5">FRONTEND</text>
+<text x="300" y="22" fill="#7b2fff" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.5">BACKEND</text>
+<text x="490" y="22" fill="#3ABEF9" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.5">DATABASE</text>
+<text x="670" y="22" fill="#00ff9f" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.5">SECURITY</text>
+<text x="850" y="22" fill="#ff6ec7" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.5">DEVOPS</text>
 
-  <!-- Hexagon forming -->
-  <polygon points="360,10 385,23 385,53 360,66 335,53 335,23" fill="none" stroke="#ff6ec7" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,250;250,0;250,0;0,250" dur="7s" begin="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="7s" begin="1s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="0 360 38" to="360 360 38" dur="15s" repeatCount="indefinite"/>
-  </polygon>
+<!-- ═ NEURAL CONNECTIONS (animated lines between nodes) ═ -->
+<!-- Frontend to Backend -->
+<line x1="150" y1="70" x2="260" y2="90" stroke="#00ffff" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="120" x2="260" y2="140" stroke="#00ffff" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.5s" repeatCount="indefinite"/>
+</line>
+<line x1="150" y1="170" x2="260" y2="90" stroke="#00ffff" stroke-width="0.8" opacity="0.2" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.05;0.3;0.05" dur="4s" repeatCount="indefinite"/>
+</line>
+<!-- Backend to DB -->
+<line x1="340" y1="90" x2="440" y2="80" stroke="#7b2fff" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.8s" repeatCount="indefinite"/>
+</line>
+<line x1="340" y1="140" x2="440" y2="130" stroke="#7b2fff" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.2s" repeatCount="indefinite"/>
+</line>
+<!-- DB to Security -->
+<line x1="540" y1="80" x2="630" y2="90" stroke="#3ABEF9" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.5s" repeatCount="indefinite"/>
+</line>
+<!-- Security to Devops -->
+<line x1="710" y1="90" x2="810" y2="100" stroke="#00ff9f" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,5">
+  <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
+</line>
 
-  <!-- Star/cross forming -->
-  <g transform="translate(450,40)" filter="url(#neonBlur)">
-    <line x1="0" y1="-28" x2="0" y2="28" stroke="#00ff9f" stroke-width="1.5">
-      <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-    </line>
-    <line x1="-28" y1="0" x2="28" y2="0" stroke="#00ff9f" stroke-width="1.5">
-      <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-    </line>
-    <line x1="-20" y1="-20" x2="20" y2="20" stroke="#00ff9f" stroke-width="0.8" opacity="0.5">
-      <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="3s" begin="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="20" y1="-20" x2="-20" y2="20" stroke="#00ff9f" stroke-width="0.8" opacity="0.5">
-      <animate attributeName="stroke-dasharray" values="0,60;60,0" dur="3s" begin="2s" repeatCount="indefinite"/>
-    </line>
-    <circle r="5" fill="#00ff9f">
-      <animate attributeName="r" values="2;6;2" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+<!-- ═ FRONTEND NODES ═ -->
+<circle cx="60" cy="70" r="22" fill="#03001C" stroke="#00ffff" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="stroke" values="#00ffff;#3ABEF9;#00ffff" dur="4s" repeatCount="indefinite"/>
+</circle>
+<text x="60" y="74" fill="#00ffff" font-family="monospace" font-size="9" text-anchor="middle" font-weight="bold">React</text>
 
-  <!-- Hexagon 2 forming -->
-  <polygon points="540,10 565,23 565,53 540,66 515,53 515,23" fill="none" stroke="#00ffff" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,250;250,0;250,0;0,250" dur="7s" begin="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="7s" begin="2s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="rotate" from="360 540 38" to="0 540 38" dur="15s" repeatCount="indefinite"/>
-  </polygon>
+<circle cx="150" cy="70" r="22" fill="#03001C" stroke="#00ffff" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="r" values="20;23;20" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="150" y="74" fill="#00ffff" font-family="monospace" font-size="8" text-anchor="middle">Next.js</text>
 
-  <!-- Diamond 2 -->
-  <polygon points="680,10 710,40 680,70 650,40" fill="none" stroke="#7b2fff" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,200;200,0;200,0;0,200" dur="6s" begin="2.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="6s" begin="2.5s" repeatCount="indefinite"/>
-  </polygon>
+<circle cx="60" cy="130" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="60" y="134" fill="#3ABEF9" font-family="monospace" font-size="7" text-anchor="middle">TypeScript</text>
 
-  <!-- Triangle 2 -->
-  <polygon points="820,60 850,15 880,60" fill="none" stroke="#ff6ec7" stroke-width="1.5" filter="url(#neonBlur)">
-    <animate attributeName="stroke-dasharray" values="0,200;200,0;200,0;0,200" dur="5s" begin="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="3s" repeatCount="indefinite"/>
-  </polygon>
+<circle cx="150" cy="130" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="150" y="134" fill="#3ABEF9" font-family="monospace" font-size="7" text-anchor="middle">Tailwind</text>
 
-  <!-- Connecting dashed lines -->
-  <line x1="140" y1="38" x2="190" y2="38" stroke="#00ffff" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="-12" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="250" y1="38" x2="335" y2="38" stroke="#7b2fff" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="12" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="385" y1="38" x2="422" y2="38" stroke="#ff6ec7" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="-12" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="478" y1="38" x2="515" y2="38" stroke="#00ff9f" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="12" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="565" y1="38" x2="650" y2="38" stroke="#00ffff" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="-12" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="710" y1="38" x2="820" y2="38" stroke="#7b2fff" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.4">
-    <animate attributeName="stroke-dashoffset" from="0" to="12" dur="1s" repeatCount="indefinite"/>
-  </line>
-</svg>
+<circle cx="105" cy="195" r="22" fill="#03001C" stroke="#00ffff" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="105" y="199" fill="#00ffff" font-family="monospace" font-size="8" text-anchor="middle">JS/CSS</text>
 
-## `⟨ TECH ARSENAL ⟩`
+<!-- ═ BACKEND NODES ═ -->
+<circle cx="260" cy="90" r="22" fill="#03001C" stroke="#7b2fff" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="r" values="20;24;20" dur="3.5s" repeatCount="indefinite"/>
+</circle>
+<text x="260" y="94" fill="#7b2fff" font-family="monospace" font-size="8" text-anchor="middle">Node.js</text>
 
-</div>
+<circle cx="340" cy="90" r="22" fill="#03001C" stroke="#7b2fff" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="340" y="94" fill="#7b2fff" font-family="monospace" font-size="7" text-anchor="middle">Express</text>
 
-<br/>
+<circle cx="260" cy="170" r="22" fill="#03001C" stroke="#7b2fff" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="260" y="174" fill="#7b2fff" font-family="monospace" font-size="8" text-anchor="middle">Python</text>
 
-<!-- ══ TECH STACK — SKILL ICONS ══ -->
-<div align="center">
+<circle cx="340" cy="170" r="22" fill="#03001C" stroke="#7b2fff" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="340" y="174" fill="#7b2fff" font-family="monospace" font-size="8" text-anchor="middle">REST API</text>
 
-**`⟦ FRONTEND SYSTEMS ⟧`**
+<!-- ═ DATABASE NODES ═ -->
+<circle cx="440" cy="80" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="r" values="20;23;20" dur="4s" repeatCount="indefinite"/>
+</circle>
+<text x="440" y="84" fill="#3ABEF9" font-family="monospace" font-size="7" text-anchor="middle">MongoDB</text>
 
-<br/>
+<circle cx="540" cy="80" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="540" y="84" fill="#3ABEF9" font-family="monospace" font-size="7" text-anchor="middle">Postgres</text>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark&perline=8)](https://skillicons.dev)
+<circle cx="440" cy="160" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="440" y="164" fill="#3ABEF9" font-family="monospace" font-size="8" text-anchor="middle">Firebase</text>
 
-<br/>
+<circle cx="540" cy="160" r="22" fill="#03001C" stroke="#3ABEF9" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="540" y="164" fill="#3ABEF9" font-family="monospace" font-size="8" text-anchor="middle">Supabase</text>
 
-**`⟦ BACKEND SYSTEMS ⟧`**
+<!-- ═ SECURITY NODES ═ -->
+<circle cx="630" cy="90" r="22" fill="#03001C" stroke="#00ff9f" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="r" values="20;24;20" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="630" y="94" fill="#00ff9f" font-family="monospace" font-size="7" text-anchor="middle">Kali Linux</text>
 
-<br/>
+<circle cx="710" cy="90" r="22" fill="#03001C" stroke="#00ff9f" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="710" y="94" fill="#00ff9f" font-family="monospace" font-size="8" text-anchor="middle">BurpSuite</text>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase,supabase,prisma&theme=dark&perline=8)](https://skillicons.dev)
+<circle cx="630" cy="180" r="22" fill="#03001C" stroke="#00ff9f" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="630" y="184" fill="#00ff9f" font-family="monospace" font-size="8" text-anchor="middle">Pen-Test</text>
 
-<br/>
+<circle cx="710" cy="180" r="22" fill="#03001C" stroke="#00ff9f" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="710" y="184" fill="#00ff9f" font-family="monospace" font-size="8" text-anchor="middle">OWASP</text>
 
-**`⟦ SECURITY & DEVOPS ⟧`**
+<!-- ═ DEVOPS NODES ═ -->
+<circle cx="810" cy="80" r="22" fill="#03001C" stroke="#ff6ec7" stroke-width="1.5" filter="url(#nn2)">
+  <animate attributeName="r" values="20;24;20" dur="3.5s" repeatCount="indefinite"/>
+</circle>
+<text x="810" y="84" fill="#ff6ec7" font-family="monospace" font-size="8" text-anchor="middle">Docker</text>
 
-<br/>
+<circle cx="900" cy="80" r="22" fill="#03001C" stroke="#ff6ec7" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="900" y="84" fill="#ff6ec7" font-family="monospace" font-size="8" text-anchor="middle">Vercel</text>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,github,vercel,vscode,postman&theme=dark&perline=8)](https://skillicons.dev)
+<circle cx="810" cy="170" r="22" fill="#03001C" stroke="#ff6ec7" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="810" y="174" fill="#ff6ec7" font-family="monospace" font-size="8" text-anchor="middle">Git/CI</text>
 
-</div>
+<circle cx="900" cy="170" r="22" fill="#03001C" stroke="#ff6ec7" stroke-width="1.5" filter="url(#nn2)"/>
+<text x="900" y="174" fill="#ff6ec7" font-family="monospace" font-size="8" text-anchor="middle">GitHub</text>
 
-<br/>
+<!-- Moving data packets on connections -->
+<circle r="3" fill="#00ffff" filter="url(#nn)" opacity="0.9">
+  <animateMotion dur="3s" repeatCount="indefinite" path="M 60,70 L 150,70 L 260,90 L 340,90 L 440,80 L 540,80 L 630,90 L 710,90 L 810,80 L 900,80"/>
+</circle>
+<circle r="3" fill="#7b2fff" filter="url(#nn)" opacity="0.9">
+  <animateMotion dur="4s" begin="1s" repeatCount="indefinite" path="M 105,195 L 260,170 L 440,160 L 630,180 L 810,170 L 900,170"/>
+</circle>
+<circle r="3" fill="#00ff9f" filter="url(#nn)" opacity="0.9">
+  <animateMotion dur="3.5s" begin="2s" repeatCount="indefinite" path="M 150,130 L 260,90 L 340,170 L 540,160 L 710,180 L 810,80"/>
+</circle>
 
-<!-- ══ ANIMATED SKILL PROFICIENCY MATRIX ══ -->
-<div align="center">
+<!-- Scan line -->
+<rect x="0" y="40" width="960" height="1" fill="#00ffff" opacity="0">
+  <animate attributeName="x" values="-960;960" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.3;0" dur="4s" repeatCount="indefinite"/>
+</rect>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="92%">
-  <defs>
-    <filter id="glow3">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ffff"/>
-      <stop offset="100%" style="stop-color:#7b2fff"/>
-    </linearGradient>
-    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7b2fff"/>
-      <stop offset="100%" style="stop-color:#ff6ec7"/>
-    </linearGradient>
-    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6ec7"/>
-      <stop offset="100%" style="stop-color:#00ff9f"/>
-    </linearGradient>
-    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ff9f"/>
-      <stop offset="100%" style="stop-color:#00ffff"/>
-    </linearGradient>
-  </defs>
+<!-- Bottom labels -->
+<text x="105" y="242" fill="#00ffff" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.6">⬡ FRONTEND</text>
+<text x="300" y="242" fill="#7b2fff" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.6">⬡ BACKEND</text>
+<text x="490" y="242" fill="#3ABEF9" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.6">⬡ DATABASE</text>
+<text x="670" y="242" fill="#00ff9f" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.6">⬡ SECURITY</text>
+<text x="855" y="242" fill="#ff6ec7" font-family="monospace" font-size="9" text-anchor="middle" opacity="0.6">⬡ DEVOPS</text>
 
-  <rect width="860" height="340" fill="#050510" rx="12"/>
-
-  <!-- Title -->
-  <text x="430" y="35" fill="#00ffff" font-family="monospace" font-size="14" text-anchor="middle" filter="url(#glow3)">◈  SKILL PROFICIENCY MATRIX  ◈</text>
-  <line x1="50" y1="50" x2="810" y2="50" stroke="#00ffff" stroke-width="0.5" opacity="0.3"/>
-
-  <!-- Column Headers -->
-  <text x="60" y="80" fill="#7b2fff" font-family="monospace" font-size="11">SKILL</text>
-  <text x="260" y="80" fill="#7b2fff" font-family="monospace" font-size="11">PROFICIENCY</text>
-  <text x="790" y="80" fill="#7b2fff" font-family="monospace" font-size="11" text-anchor="end">LVL</text>
-
-  <!-- Row 1 -->
-  <text x="60" y="115" fill="#a8b2d8" font-family="monospace" font-size="12">React / Next.js</text>
-  <rect x="260" y="100" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="100" width="0" height="14" fill="url(#bar1)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="470" dur="2s" fill="freeze" begin="0.3s"/>
-  </rect>
-  <text x="790" y="113" fill="#00ffff" font-family="monospace" font-size="12" text-anchor="end">96%</text>
-
-  <!-- Row 2 -->
-  <text x="60" y="155" fill="#a8b2d8" font-family="monospace" font-size="12">TypeScript</text>
-  <rect x="260" y="140" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="140" width="0" height="14" fill="url(#bar2)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="440" dur="2s" fill="freeze" begin="0.5s"/>
-  </rect>
-  <text x="790" y="153" fill="#7b2fff" font-family="monospace" font-size="12" text-anchor="end">90%</text>
-
-  <!-- Row 3 -->
-  <text x="60" y="195" fill="#a8b2d8" font-family="monospace" font-size="12">Node.js / Express</text>
-  <rect x="260" y="180" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="180" width="0" height="14" fill="url(#bar3)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="415" dur="2s" fill="freeze" begin="0.7s"/>
-  </rect>
-  <text x="790" y="193" fill="#ff6ec7" font-family="monospace" font-size="12" text-anchor="end">85%</text>
-
-  <!-- Row 4 -->
-  <text x="60" y="235" fill="#a8b2d8" font-family="monospace" font-size="12">Cybersecurity</text>
-  <rect x="260" y="220" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="220" width="0" height="14" fill="url(#bar4)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="392" dur="2s" fill="freeze" begin="0.9s"/>
-  </rect>
-  <text x="790" y="233" fill="#00ff9f" font-family="monospace" font-size="12" text-anchor="end">80%</text>
-
-  <!-- Row 5 -->
-  <text x="60" y="275" fill="#a8b2d8" font-family="monospace" font-size="12">AI Integration</text>
-  <rect x="260" y="260" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="260" width="0" height="14" fill="url(#bar1)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="355" dur="2s" fill="freeze" begin="1.1s"/>
-  </rect>
-  <text x="790" y="273" fill="#00ffff" font-family="monospace" font-size="12" text-anchor="end">72%</text>
-
-  <!-- Row 6 -->
-  <text x="60" y="315" fill="#a8b2d8" font-family="monospace" font-size="12">Python / Security Tools</text>
-  <rect x="260" y="300" width="490" height="14" fill="#0d0221" rx="7"/>
-  <rect x="260" y="300" width="0" height="14" fill="url(#bar2)" rx="7" filter="url(#glow3)">
-    <animate attributeName="width" from="0" to="330" dur="2s" fill="freeze" begin="1.3s"/>
-  </rect>
-  <text x="790" y="313" fill="#7b2fff" font-family="monospace" font-size="12" text-anchor="end">67%</text>
-
-  <!-- Animated scan line -->
-  <rect x="50" y="90" width="760" height="2" fill="#00ffff" opacity="0">
-    <animate attributeName="y" values="90;330;90" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="5s" repeatCount="indefinite"/>
-  </rect>
 </svg>
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                     PROJECTS — HOLOGRAPHIC CARDS                     -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
+<!-- ══ SKILL MATRIX BARS ══ -->
 <div align="center">
 
-## `⟨ DEPLOYED SYSTEMS ⟩`
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 370" width="98%">
+<defs>
+  <filter id="sb"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="g1x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#00ffff"/><stop offset="100%" style="stop-color:#3ABEF9"/></linearGradient>
+  <linearGradient id="g2x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#7b2fff"/><stop offset="100%" style="stop-color:#3ABEF9"/></linearGradient>
+  <linearGradient id="g3x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#3ABEF9"/><stop offset="100%" style="stop-color:#00ff9f"/></linearGradient>
+  <linearGradient id="g4x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#00ff9f"/><stop offset="100%" style="stop-color:#00ffff"/></linearGradient>
+  <linearGradient id="g5x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#ff6ec7"/><stop offset="100%" style="stop-color:#7b2fff"/></linearGradient>
+  <linearGradient id="g6x" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#00ffff"/><stop offset="100%" style="stop-color:#ff6ec7"/></linearGradient>
+</defs>
+<rect width="960" height="370" fill="#03001C" rx="14"/>
 
-</div>
+<!-- Title line -->
+<text x="480" y="38" fill="#00ffff" font-family="monospace" font-size="15" text-anchor="middle" font-weight="bold" filter="url(#sb)">◈  PROFICIENCY  MATRIX  ◈</text>
+<line x1="40" y1="55" x2="920" y2="55" stroke="#00ffff" stroke-width="0.5" opacity="0.2"/>
 
-<br/>
+<!-- Headers -->
+<text x="50" y="80" fill="#7b2fff" font-family="monospace" font-size="11" opacity="0.8">MODULE</text>
+<text x="280" y="80" fill="#7b2fff" font-family="monospace" font-size="11" opacity="0.8">STRENGTH LEVEL</text>
+<text x="910" y="80" fill="#7b2fff" font-family="monospace" font-size="11" text-anchor="end" opacity="0.8">%</text>
 
-<!-- AI MODULE HEADER -->
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 50" width="75%">
-  <rect width="700" height="50" fill="#050510" rx="8"/>
-  <rect x="2" y="2" width="696" height="46" fill="none" stroke="#00ffff" stroke-width="1" rx="7" stroke-dasharray="0,1500">
-    <animate attributeName="stroke-dasharray" values="0,1500;1500,0" dur="3s" fill="freeze"/>
-  </rect>
-  <text x="350" y="31" fill="#00ffff" font-family="monospace" font-size="14" text-anchor="middle">◈  MODULE 01 — AI &amp; NEURAL SYSTEMS  ◈</text>
+<!-- ROW 1 -->
+<text x="50" y="117" fill="#00ffff" font-family="monospace" font-size="13">⬡ React / Next.js</text>
+<rect x="280" y="102" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="102" width="0" height="16" fill="url(#g1x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="548" dur="1.8s" fill="freeze" begin="0.2s"/>
+</rect>
+<text x="910" y="117" fill="#00ffff" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">96%</text>
+
+<!-- ROW 2 -->
+<text x="50" y="157" fill="#3ABEF9" font-family="monospace" font-size="13">⬡ TypeScript</text>
+<rect x="280" y="142" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="142" width="0" height="16" fill="url(#g2x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="513" dur="1.8s" fill="freeze" begin="0.4s"/>
+</rect>
+<text x="910" y="157" fill="#3ABEF9" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">90%</text>
+
+<!-- ROW 3 -->
+<text x="50" y="197" fill="#7b2fff" font-family="monospace" font-size="13">⬡ Node.js / Express</text>
+<rect x="280" y="182" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="182" width="0" height="16" fill="url(#g3x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="485" dur="1.8s" fill="freeze" begin="0.6s"/>
+</rect>
+<text x="910" y="197" fill="#7b2fff" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">85%</text>
+
+<!-- ROW 4 -->
+<text x="50" y="237" fill="#00ff9f" font-family="monospace" font-size="13">⬡ Cybersecurity</text>
+<rect x="280" y="222" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="222" width="0" height="16" fill="url(#g4x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="456" dur="1.8s" fill="freeze" begin="0.8s"/>
+</rect>
+<text x="910" y="237" fill="#00ff9f" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">80%</text>
+
+<!-- ROW 5 -->
+<text x="50" y="277" fill="#ff6ec7" font-family="monospace" font-size="13">⬡ AI Integration</text>
+<rect x="280" y="262" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="262" width="0" height="16" fill="url(#g5x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="411" dur="1.8s" fill="freeze" begin="1.0s"/>
+</rect>
+<text x="910" y="277" fill="#ff6ec7" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">72%</text>
+
+<!-- ROW 6 -->
+<text x="50" y="317" fill="#3ABEF9" font-family="monospace" font-size="13">⬡ Python / Tools</text>
+<rect x="280" y="302" width="570" height="16" fill="#070F2B" rx="8"/>
+<rect x="280" y="302" width="0" height="16" fill="url(#g6x)" rx="8" filter="url(#sb)">
+  <animate attributeName="width" from="0" to="383" dur="1.8s" fill="freeze" begin="1.2s"/>
+</rect>
+<text x="910" y="317" fill="#3ABEF9" font-family="monospace" font-size="13" text-anchor="end" filter="url(#sb)">67%</text>
+
+<!-- Animated scan -->
+<rect x="40" y="90" width="880" height="2" fill="#00ffff" opacity="0">
+  <animate attributeName="y" values="90;340;90" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.12;0" dur="5s" repeatCount="indefinite"/>
+</rect>
+
+<line x1="40" y1="340" x2="920" y2="340" stroke="#00ffff" stroke-width="0.4" opacity="0.2"/>
+<text x="480" y="358" fill="#3ABEF9" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.5">⟨ PROFICIENCY MEASURED ACROSS REAL PRODUCTION DEPLOYMENTS ⟩</text>
 </svg>
-</div>
-
-<br/>
-
-<div align="center">
-
-| &nbsp;`SYS` | PROJECT NAME | DESCRIPTION | DEPLOY |
-|:---:|:---|:---|:---:|
-| `A-01` | **[G-Code AI](https://g-code-ai.vercel.app)** | AI-powered coding assistant with real-time intelligent completions | [![](https://img.shields.io/badge/◈_LIVE-00ff9f?style=flat-square&labelColor=050510)](https://g-code-ai.vercel.app) |
-| `A-02` | **[Kunh AI](https://kunh-ai.vercel.app)** | Conversational AI interface with advanced LLM integration patterns | [![](https://img.shields.io/badge/◈_LIVE-00ff9f?style=flat-square&labelColor=050510)](https://kunh-ai.vercel.app) |
-
-</div>
-
-<br/>
-
-<!-- SECURITY MODULE HEADER -->
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 50" width="75%">
-  <rect width="700" height="50" fill="#050510" rx="8"/>
-  <rect x="2" y="2" width="696" height="46" fill="none" stroke="#ff6ec7" stroke-width="1" rx="7" stroke-dasharray="0,1500">
-    <animate attributeName="stroke-dasharray" values="0,1500;1500,0" dur="3s" fill="freeze"/>
-  </rect>
-  <text x="350" y="31" fill="#ff6ec7" font-family="monospace" font-size="14" text-anchor="middle">◈  MODULE 02 — SECURITY &amp; UTILITIES  ◈</text>
-</svg>
-</div>
-
-<br/>
-
-<div align="center">
-
-| &nbsp;`SYS` | PROJECT NAME | DESCRIPTION | DEPLOY |
-|:---:|:---|:---|:---:|
-| `S-01` | **[SkullPatch](https://skullpatch.vercel.app)** | Security patch management & vulnerability analysis concept tool | [![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=050510)](https://skullpatch.vercel.app) |
-| `S-02` | **[Vyroxen](https://vyroxen.vercel.app)** | System analysis and security auditing utility interface | [![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=050510)](https://vyroxen.vercel.app) |
-| `S-03` | **[SoraHub](https://sorahub.vercel.app)** | Open-source centralized hub for dev tools & community resources | [![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=050510)](https://sorahub.vercel.app) |
-
-</div>
-
-<br/>
-
-<!-- WEB MODULE HEADER -->
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 50" width="75%">
-  <rect width="700" height="50" fill="#050510" rx="8"/>
-  <rect x="2" y="2" width="696" height="46" fill="none" stroke="#7b2fff" stroke-width="1" rx="7" stroke-dasharray="0,1500">
-    <animate attributeName="stroke-dasharray" values="0,1500;1500,0" dur="3s" fill="freeze"/>
-  </rect>
-  <text x="350" y="31" fill="#7b2fff" font-family="monospace" font-size="14" text-anchor="middle">◈  MODULE 03 — WEB APPLICATIONS  ◈</text>
-</svg>
-</div>
-
-<br/>
-
-<div align="center">
-
-| &nbsp;`SYS` | PROJECT NAME | DESCRIPTION | DEPLOY |
-|:---:|:---|:---|:---:|
-| `W-01` | ⭐ **[Ahmed Nour Portfolio](https://ahmednour.vercel.app)** | **Main portfolio** — Design, projects & professional hub | [![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=050510)](https://ahmednour.vercel.app) |
-| `W-02` | **[Mr Pola](https://mrpola.vercel.app)** | E-commerce & brand platform with optimized UX/UI flows | [![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=050510)](https://mrpola.vercel.app) |
-| `W-03` | **[Spedra](https://spedra.vercel.app)** | High-performance optimized web application architecture | [![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=050510)](https://spedra.vercel.app) |
 
 </div>
 
@@ -560,25 +685,116 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         ANALYTICS SECTION                            -->
+<!--              ⑤ DEPLOYED SYSTEMS / PROJECTS                           -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
+<div align="center"><h2>
+
+```
+╔═══════════════════════════════════╗
+║   ⬡  DEPLOYED  SYSTEMS  ⬡       ║
+╚═══════════════════════════════════╝
+```
+
+</h2></div>
+
+<!-- MODULE AI -->
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 56" width="82%">
+<defs><filter id="hf"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="780" height="56" fill="#03001C" rx="10"/>
+<rect x="2" y="2" width="776" height="52" fill="none" stroke="#00ffff" stroke-width="1.2" rx="9" stroke-dasharray="0,1700">
+  <animate attributeName="stroke-dasharray" values="0,1700;1700,0" dur="3.5s" fill="freeze"/>
+</rect>
+<!-- Corner brackets -->
+<line x1="2" y1="18" x2="2" y2="2" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="2" y1="2" x2="18" y2="2" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="762" y1="2" x2="778" y2="2" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="778" y1="2" x2="778" y2="18" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="2" y1="38" x2="2" y2="54" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="2" y1="54" x2="18" y2="54" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="762" y1="54" x2="778" y2="54" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<line x1="778" y1="38" x2="778" y2="54" stroke="#00ffff" stroke-width="2.5" filter="url(#hf)"/>
+<!-- Pulsing dots -->
+<circle cx="38" cy="28" r="4" fill="#00ffff" filter="url(#hf)"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="742" cy="28" r="4" fill="#00ffff" filter="url(#hf)"><animate attributeName="r" values="2;5;2" dur="2s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="390" y="33" fill="#00ffff" font-family="monospace" font-size="14" text-anchor="middle" font-weight="bold" filter="url(#hf)">◈  MODULE_01  ·  AI &amp; NEURAL SYSTEMS  ◈</text>
+</svg>
+</div>
+<br/>
 <div align="center">
 
-## `⟨ ANALYTICS & NEURAL CONTRIBUTIONS ⟩`
+| `ID` | PROJECT | DESCRIPTION | STACK | STATUS |
+|:----:|:--------|:------------|:-----:|:------:|
+| `A-01` | **[⚡ G-Code AI](https://g-code-ai.vercel.app)** | AI-powered coding assistant with intelligent completions | `Next.js · AI` | ![](https://img.shields.io/badge/◈_LIVE-00ff9f?style=flat-square&labelColor=03001C) |
+| `A-02` | **[⚡ Kunh AI](https://kunh-ai.vercel.app)** | Advanced conversational AI interface with LLM integration | `React · API` | ![](https://img.shields.io/badge/◈_LIVE-00ff9f?style=flat-square&labelColor=03001C) |
 
 </div>
-
 <br/>
 
+<!-- MODULE SECURITY -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmednour-me&bg_color=050510&color=00ffff&line=7b2fff&point=ff6ec7&area=true&area_color=0d0221&hide_border=true&radius=8&custom_title=◈+NEURAL+CONTRIBUTION+NETWORK+◈" width="96%" alt="Activity Graph" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 56" width="82%">
+<defs><filter id="hf2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="780" height="56" fill="#03001C" rx="10"/>
+<rect x="2" y="2" width="776" height="52" fill="none" stroke="#ff6ec7" stroke-width="1.2" rx="9" stroke-dasharray="0,1700">
+  <animate attributeName="stroke-dasharray" values="0,1700;1700,0" dur="3.5s" fill="freeze"/>
+</rect>
+<line x1="2" y1="18" x2="2" y2="2" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="2" y1="2" x2="18" y2="2" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="762" y1="2" x2="778" y2="2" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="778" y1="2" x2="778" y2="18" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="2" y1="38" x2="2" y2="54" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="2" y1="54" x2="18" y2="54" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="762" y1="54" x2="778" y2="54" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<line x1="778" y1="38" x2="778" y2="54" stroke="#ff6ec7" stroke-width="2.5" filter="url(#hf2)"/>
+<circle cx="38" cy="28" r="4" fill="#ff6ec7" filter="url(#hf2)"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="742" cy="28" r="4" fill="#ff6ec7" filter="url(#hf2)"><animate attributeName="r" values="2;5;2" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="390" y="33" fill="#ff6ec7" font-family="monospace" font-size="14" text-anchor="middle" font-weight="bold" filter="url(#hf2)">◈  MODULE_02  ·  SECURITY &amp; UTILITIES  ◈</text>
+</svg>
 </div>
+<br/>
+<div align="center">
 
+| `ID` | PROJECT | DESCRIPTION | STACK | STATUS |
+|:----:|:--------|:------------|:-----:|:------:|
+| `S-01` | **[🛡 SkullPatch](https://skullpatch.vercel.app)** | Security patch management & vulnerability analysis | `Node · Security` | ![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=03001C) |
+| `S-02` | **[🛡 Vyroxen](https://vyroxen.vercel.app)** | System analysis and security auditing utility | `React · Tools` | ![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=03001C) |
+| `S-03` | **[🛡 SoraHub](https://sorahub.vercel.app)** | Open-source hub for development tools & resources | `Next.js · OSS` | ![](https://img.shields.io/badge/◈_LIVE-ff6ec7?style=flat-square&labelColor=03001C) |
+
+</div>
 <br/>
 
+<!-- MODULE WEB -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednour-me&layout=donut&theme=transparent&hide_border=true&title_color=00ffff&text_color=a8b2d8&bg_color=050510&langs_count=8&custom_title=◈+LANGUAGE+MATRIX" height="220" alt="Top Languages"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 56" width="82%">
+<defs><filter id="hf3"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="780" height="56" fill="#03001C" rx="10"/>
+<rect x="2" y="2" width="776" height="52" fill="none" stroke="#7b2fff" stroke-width="1.2" rx="9" stroke-dasharray="0,1700">
+  <animate attributeName="stroke-dasharray" values="0,1700;1700,0" dur="3.5s" fill="freeze"/>
+</rect>
+<line x1="2" y1="18" x2="2" y2="2" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="2" y1="2" x2="18" y2="2" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="762" y1="2" x2="778" y2="2" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="778" y1="2" x2="778" y2="18" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="2" y1="38" x2="2" y2="54" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="2" y1="54" x2="18" y2="54" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="762" y1="54" x2="778" y2="54" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<line x1="778" y1="38" x2="778" y2="54" stroke="#7b2fff" stroke-width="2.5" filter="url(#hf3)"/>
+<circle cx="38" cy="28" r="4" fill="#7b2fff" filter="url(#hf3)"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="742" cy="28" r="4" fill="#7b2fff" filter="url(#hf3)"><animate attributeName="r" values="2;5;2" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="390" y="33" fill="#7b2fff" font-family="monospace" font-size="14" text-anchor="middle" font-weight="bold" filter="url(#hf3)">◈  MODULE_03  ·  WEB  APPLICATIONS  ◈</text>
+</svg>
+</div>
+<br/>
+<div align="center">
+
+| `ID` | PROJECT | DESCRIPTION | STACK | STATUS |
+|:----:|:--------|:------------|:-----:|:------:|
+| `W-01` | ⭐ **[Ahmed Nour Portfolio](https://ahmednour.vercel.app)** | **Main portfolio** — showcase of design, projects & skills | `Next.js · TS` | ![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=03001C) |
+| `W-02` | **[🌐 Mr Pola](https://mrpola.vercel.app)** | E-commerce & brand platform with polished UX/UI | `React · Tailwind` | ![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=03001C) |
+| `W-03` | **[🌐 Spedra](https://spedra.vercel.app)** | High-performance optimized web application | `Next.js · Node` | ![](https://img.shields.io/badge/◈_LIVE-7b2fff?style=flat-square&labelColor=03001C) |
+
 </div>
 
 <br/>
@@ -588,75 +804,126 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED CONTACT PANEL                            -->
+<!--              ⑥ ANALYTICS                                             -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
+<div align="center"><h2>
+
+```
+╔═══════════════════════════════════╗
+║   ⬡  ANALYTICS  &  SIGNALS  ⬡  ║
+╚═══════════════════════════════════╝
+```
+
+</h2></div>
+
 <div align="center">
-
-## `⟨ ESTABLISH CONNECTION ⟩`
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmednour-me&bg_color=03001C&color=00ffff&line=7b2fff&point=3ABEF9&area=true&area_color=070F2B&hide_border=true&radius=10&custom_title=◈+NEURAL+CONTRIBUTION+GRAPH+◈&title_color=00ffff" width="97%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednour-me&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00ffff&text_color=3ABEF9&bg_color=03001C&langs_count=8&custom_title=◈+LANGUAGE+MATRIX" height="240"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ahmednour-me&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&icon_color=7b2fff&text_color=3ABEF9&bg_color=03001C&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=◈+COMMIT+STATS" height="240"/>
+</div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="92%">
-  <defs>
-    <filter id="glowContact">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <linearGradient id="contactBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#050510"/>
-      <stop offset="50%" style="stop-color:#0d0221"/>
-      <stop offset="100%" style="stop-color:#050510"/>
-    </linearGradient>
-  </defs>
+<br/>
 
-  <rect width="860" height="160" fill="url(#contactBg)" rx="12"/>
+---
 
-  <!-- Outer border forming -->
-  <rect x="10" y="10" width="840" height="140" fill="none" stroke="#00ffff" stroke-width="1" rx="8" stroke-dasharray="0,2000">
-    <animate attributeName="stroke-dasharray" values="0,2000;2000,0" dur="4s" repeatCount="indefinite"/>
-  </rect>
+<br/>
 
-  <!-- Inner border -->
-  <rect x="18" y="18" width="824" height="124" fill="none" stroke="#7b2fff" stroke-width="0.5" rx="6" opacity="0.5" stroke-dasharray="0,2000">
-    <animate attributeName="stroke-dasharray" values="0,2000;2000,0" dur="4s" begin="0.5s" repeatCount="indefinite"/>
-  </rect>
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--              ⑦ CONTACT — HOLOGRAPHIC PANEL                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-  <!-- Corner triangles forming -->
-  <polygon points="10,10 35,10 10,35" fill="none" stroke="#00ffff" stroke-width="1.5" filter="url(#glowContact)">
-    <animate attributeName="stroke-dasharray" values="0,100;100,0;100,0;0,100" dur="4s" repeatCount="indefinite"/>
-  </polygon>
-  <polygon points="850,10 825,10 850,35" fill="none" stroke="#7b2fff" stroke-width="1.5" filter="url(#glowContact)">
-    <animate attributeName="stroke-dasharray" values="0,100;100,0;100,0;0,100" dur="4s" begin="1s" repeatCount="indefinite"/>
-  </polygon>
-  <polygon points="10,150 35,150 10,125" fill="none" stroke="#ff6ec7" stroke-width="1.5" filter="url(#glowContact)">
-    <animate attributeName="stroke-dasharray" values="0,100;100,0;100,0;0,100" dur="4s" begin="2s" repeatCount="indefinite"/>
-  </polygon>
-  <polygon points="850,150 825,150 850,125" fill="none" stroke="#00ff9f" stroke-width="1.5" filter="url(#glowContact)">
-    <animate attributeName="stroke-dasharray" values="0,100;100,0;100,0;0,100" dur="4s" begin="3s" repeatCount="indefinite"/>
-  </polygon>
+<div align="center"><h2>
 
-  <!-- Center content -->
-  <text x="430" y="65" fill="#00ffff" font-family="monospace" font-size="16" text-anchor="middle" font-weight="bold" filter="url(#glowContact)">◈  OPEN FOR COLLABORATION  ◈</text>
-  <text x="430" y="92" fill="#a8b2d8" font-family="monospace" font-size="11" text-anchor="middle">FULL STACK DEVELOPMENT  ·  SECURITY CONSULTING  ·  AI-POWERED PRODUCTS</text>
-  <line x1="150" y1="104" x2="710" y2="104" stroke="#7b2fff" stroke-width="0.5" opacity="0.5" stroke-dasharray="4,4">
-    <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <text x="430" y="125" fill="#7b2fff" font-family="monospace" font-size="11" text-anchor="middle">ahmednour.vercel.app</text>
+```
+╔═══════════════════════════════════╗
+║   ⬡  ESTABLISH  CONNECTION  ⬡  ║
+╚═══════════════════════════════════╝
+```
 
-  <!-- Pulsing side dots -->
-  <circle cx="80" cy="80" r="4" fill="#00ffff" filter="url(#glowContact)">
-    <animate attributeName="r" values="2;6;2" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="780" cy="80" r="4" fill="#7b2fff" filter="url(#glowContact)">
-    <animate attributeName="r" values="2;6;2" dur="2.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
+</h2></div>
+
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="98%">
+<defs>
+  <filter id="cp"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="cp2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="cpbg" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" style="stop-color:#070F2B"/>
+    <stop offset="100%" style="stop-color:#000000"/>
+  </radialGradient>
+</defs>
+<rect width="960" height="180" fill="url(#cpbg)" rx="14"/>
+
+<!-- Outer border that draws itself -->
+<rect x="8" y="8" width="944" height="164" fill="none" stroke="#00ffff" stroke-width="1.5" rx="10" stroke-dasharray="0,2300">
+  <animate attributeName="stroke-dasharray" values="0,2300;2300,0" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#00ffff;#3ABEF9;#7b2fff;#00ffff" dur="8s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Inner border -->
+<rect x="16" y="16" width="928" height="148" fill="none" stroke="#7b2fff" stroke-width="0.6" rx="8" opacity="0.4" stroke-dasharray="0,2300">
+  <animate attributeName="stroke-dasharray" values="0,2300;2300,0" dur="5s" begin="0.8s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Corner forming shapes -->
+<!-- TL -->
+<polygon points="8,8 45,8 8,45" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#cp2)">
+  <animate attributeName="stroke-dasharray" values="0,120;120,0;120,0;0,120" dur="5s" repeatCount="indefinite"/>
+</polygon>
+<!-- TR -->
+<polygon points="952,8 915,8 952,45" fill="none" stroke="#3ABEF9" stroke-width="2" filter="url(#cp2)">
+  <animate attributeName="stroke-dasharray" values="0,120;120,0;120,0;0,120" dur="5s" begin="1s" repeatCount="indefinite"/>
+</polygon>
+<!-- BL -->
+<polygon points="8,172 45,172 8,135" fill="none" stroke="#7b2fff" stroke-width="2" filter="url(#cp2)">
+  <animate attributeName="stroke-dasharray" values="0,120;120,0;120,0;0,120" dur="5s" begin="2s" repeatCount="indefinite"/>
+</polygon>
+<!-- BR -->
+<polygon points="952,172 915,172 952,135" fill="none" stroke="#ff6ec7" stroke-width="2" filter="url(#cp2)">
+  <animate attributeName="stroke-dasharray" values="0,120;120,0;120,0;0,120" dur="5s" begin="3s" repeatCount="indefinite"/>
+</polygon>
+
+<!-- Side pulse circles -->
+<circle cx="60" cy="90" r="6" fill="#00ffff" filter="url(#cp)">
+  <animate attributeName="r" values="3;9;3" dur="2.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="60" cy="90" r="20" fill="none" stroke="#00ffff" stroke-width="0.5" opacity="0.2">
+  <animate attributeName="r" values="8;28;8" dur="2.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.3;0;0.3" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="900" cy="90" r="6" fill="#7b2fff" filter="url(#cp)">
+  <animate attributeName="r" values="3;9;3" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="900" cy="90" r="20" fill="none" stroke="#7b2fff" stroke-width="0.5" opacity="0.2">
+  <animate attributeName="r" values="8;28;8" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Main text -->
+<text x="480" y="68" fill="#00ffff" font-family="monospace" font-size="20" text-anchor="middle" font-weight="bold" filter="url(#cp)">◈  OPEN  FOR  COLLABORATION  ◈</text>
+<text x="480" y="100" fill="#3ABEF9" font-family="monospace" font-size="12" text-anchor="middle">FULL STACK DEVELOPMENT  ·  CYBERSECURITY  ·  AI-POWERED PRODUCTS  ·  2026</text>
+<line x1="180" y1="112" x2="780" y2="112" stroke="#7b2fff" stroke-width="0.7" opacity="0.4" stroke-dasharray="4,4">
+  <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1s" repeatCount="indefinite"/>
+</line>
+<text x="480" y="136" fill="#7b2fff" font-family="monospace" font-size="13" text-anchor="middle" filter="url(#cp2)">▸  ahmednour.vercel.app  ◂</text>
+<text x="480" y="158" fill="#3ABEF9" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.5">⟨ SIGNAL RECEIVED — TRANSMISSION ESTABLISHED ⟩</text>
+
+<!-- Scanning beam -->
+<rect x="8" y="8" width="944" height="2" fill="#00ffff" opacity="0">
+  <animate attributeName="y" values="8;174;8" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.25;0" dur="4s" repeatCount="indefinite"/>
+</rect>
 </svg>
 
 </div>
@@ -665,44 +932,72 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-ahmednour.vercel.app-00ffff?style=for-the-badge&labelColor=050510&color=00ffff)](https://ahmednour.vercel.app)
+[![](https://img.shields.io/badge/⬡_PORTFOLIO-ahmednour.vercel.app-00ffff?style=for-the-badge&labelColor=03001C)](https://ahmednour.vercel.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=050510&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-linkedin-username)
+[![](https://img.shields.io/badge/⬡_LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=03001C&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-linkedin-username)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/◈_TWITTER-Follow-1DA1F2?style=for-the-badge&labelColor=050510&logo=twitter&logoColor=1DA1F2)](https://twitter.com/your-twitter-handle)
+[![](https://img.shields.io/badge/⬡_TWITTER-Follow-1DA1F2?style=for-the-badge&labelColor=03001C&logo=twitter&logoColor=1DA1F2)](https://twitter.com/your-twitter-handle)
 
 </div>
 
-<br/>
+<br/><br/>
 
----
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--              ⑧ EPIC FOOTER                                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ══ FINAL FOOTER SVG ══ -->
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="95%">
-  <defs>
-    <filter id="glowFinal"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <rect width="900" height="60" fill="#050510" rx="8"/>
-  <rect x="3" y="3" width="894" height="54" fill="none" stroke="#00ffff" stroke-width="0.8" rx="6" stroke-dasharray="0,2800">
-    <animate attributeName="stroke-dasharray" values="0,2800;2800,0;2800,0;0,2800" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="stroke" values="#00ffff;#7b2fff;#ff6ec7;#00ff9f;#00ffff" dur="8s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="0" y="0" width="900" height="1" fill="#00ffff" opacity="0">
-    <animate attributeName="y" from="0" to="60" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.4;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="450" y="26" fill="#a8b2d8" font-family="monospace" font-size="11" text-anchor="middle">⟨ CRAFTED WITH PRECISION — DEPLOYED WITH PASSION ⟩</text>
-  <text x="450" y="46" fill="#7b2fff" font-family="monospace" font-size="10" text-anchor="middle" filter="url(#glowFinal)">AHMED NOUR  ·  FULL STACK + SECURITY  ·  © 2025</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 80" width="98%">
+<defs>
+  <filter id="ff"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="ftbg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#000000"/>
+    <stop offset="30%" style="stop-color:#03001C"/>
+    <stop offset="70%" style="stop-color:#070F2B"/>
+    <stop offset="100%" style="stop-color:#000000"/>
+  </linearGradient>
+</defs>
+<rect width="960" height="80" fill="url(#ftbg)" rx="0"/>
+
+<!-- Animated border color cycling -->
+<rect x="0" y="0" width="960" height="80" fill="none" stroke="#00ffff" stroke-width="1" stroke-dasharray="0,3600">
+  <animate attributeName="stroke-dasharray" values="0,3600;3600,0;3600,0;0,3600" dur="10s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#00ffff;#3ABEF9;#7b2fff;#ff6ec7;#00ff9f;#00ffff" dur="10s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Scan -->
+<rect x="0" y="0" width="960" height="1.5" fill="#00ffff" opacity="0">
+  <animate attributeName="y" from="0" to="80" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Footer text -->
+<text x="480" y="30" fill="#a0b4d6" font-family="monospace" font-size="12" text-anchor="middle">⟨  CRAFTED WITH PRECISION  ·  DEPLOYED WITH PASSION  ·  2026  ⟩</text>
+<line x1="200" y1="42" x2="760" y2="42" stroke="#7b2fff" stroke-width="0.5" opacity="0.4" stroke-dasharray="3,6">
+  <animate attributeName="stroke-dashoffset" from="0" to="-18" dur="1.5s" repeatCount="indefinite"/>
+</line>
+<text x="480" y="62" fill="#00ffff" font-family="monospace" font-size="13" text-anchor="middle" font-weight="bold" filter="url(#ff)">AHMED  NOUR  ·  FULL STACK  +  SECURITY  +  AI</text>
+
+<!-- Corner shapes forming -->
+<polygon points="0,0 20,0 0,20" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#ff)">
+  <animate attributeName="stroke-dasharray" values="0,70;70,0;70,0;0,70" dur="4s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="960,0 940,0 960,20" fill="none" stroke="#7b2fff" stroke-width="2" filter="url(#ff)">
+  <animate attributeName="stroke-dasharray" values="0,70;70,0;70,0;0,70" dur="4s" begin="1s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="0,80 20,80 0,60" fill="none" stroke="#3ABEF9" stroke-width="2" filter="url(#ff)">
+  <animate attributeName="stroke-dasharray" values="0,70;70,0;70,0;0,70" dur="4s" begin="2s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="960,80 940,80 960,60" fill="none" stroke="#ff6ec7" stroke-width="2" filter="url(#ff)">
+  <animate attributeName="stroke-dasharray" values="0,70;70,0;70,0;0,70" dur="4s" begin="3s" repeatCount="indefinite"/>
+</polygon>
 </svg>
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:03001C,65:070F2B,100:000000&height=140&section=footer&animation=twinkling&desc=⟨%20END%20OF%20TRANSMISSION%20·%20AHMED%20NOUR%20·%202026%20⟩&descSize=13&descColor=3ABEF9&descAlignY=78&reversal=false"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0221,70:0a0a2e,100:000000&height=130&section=footer&animation=twinkling&desc=⟨%20END%20OF%20TRANSMISSION%20⟩&descSize=12&descColor=7b2fff&descAlignY=75" />
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    END OF README — AHMED NOUR                       -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--               END OF README — AHMED NOUR © 2026                    -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
